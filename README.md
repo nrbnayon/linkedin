@@ -4,7 +4,7 @@ A beautifully designed LinkedIn clone showcasing a professional networking platf
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://nsocialmedia.netlify.app)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
@@ -16,7 +16,7 @@ A beautifully designed LinkedIn clone showcasing a professional networking platf
 
 ![LinkedIn Clone Demo](demo.gif)
 
-[Live Demo](#) <!-- Add the link to your live demo once it's hosted -->
+[Live Demo](https://nsocialmedia.netlify.app) 
 
 ## Features
 
